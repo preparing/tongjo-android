@@ -12,6 +12,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		System.out.println("test eclipse push"); 
+		
+		System.out.println("test eclipse push by console"); 
 	}
 
 	@Override
