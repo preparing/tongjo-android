@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
 		System.out.println("test eclipse push"); 
 		
 		System.out.println("test eclipse push by console"); 
+		
+		System.out.println("test eclipse push without username and password"); 
 	}
 
 	@Override
